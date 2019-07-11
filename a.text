@@ -20,3 +20,5 @@ a= 4
 b = 5
 
 c = dev
+
+d = master
